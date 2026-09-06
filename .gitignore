@@ -1,0 +1,12 @@
+# Ignore everything by default
+*
+
+# Keep this policy file and repository guide
+!.gitignore
+!README.md
+
+# Allow distribution assets only
+!screenshots/
+!screenshots/**
+!apk/
+!apk/**
