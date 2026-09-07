@@ -1,0 +1,62 @@
+# ==============================================================================
+# .swapnendu — Profile, Environment & Engineering Configuration
+# ==============================================================================
+
+developer:
+  name: "Swapnendu Mal"
+  alias: "Swapnendu"
+  role: "Full-Stack Software Engineer & Solo Builder"
+  status: "Building, shipping, refactoring"
+
+philosophy:
+  core_rule: "Zero bloat, zero trackers, maximum performance."
+  workflow: "Iterate relentlessly. Ship features, profile frames, squash bugs."
+  design: "Clean, responsive, touch-first ergonomics."
+
+projects:
+  flagship:
+    name: "MusicNest"
+    type: "Android Music Client & Streaming Engine"
+    version: "v1.1.0"
+    stack:
+      - "Kotlin"
+      - "Jetpack Compose"
+      - "AndroidX Media3 / ExoPlayer"
+      - "Coroutines & Flow"
+      - "Room Database"
+    features:
+      - "AI Recommendation System"
+      - "Smart Queue Management"
+      - "Syllable-Synced Dynamic Lyrics"
+      - "Mobile Memory Optimization"
+    upcoming:
+      - "Spotify OAuth & Playlist Importer"
+      - "Local Offline Media Scanner"
+      - "Built-in 10-Band EQ"
+
+tech_stack:
+  mobile:
+    - "Kotlin / Jetpack Compose"
+    - "React Native / Expo"
+    - "Android Media3 Engine"
+  backend_and_data:
+    - "Python"
+    - "Node.js / JavaScript"
+    - "REST & WebSocket APIs"
+    - "Supabase / Firebase / SQLite"
+  frontend_and_styling:
+    - "Tailwind CSS"
+    - "React"
+    - "Three.js"
+
+terminal_environment:
+  preferred_shell: "bash / zsh"
+  tools:
+    - "git"
+    - "gradle"
+    - "adb"
+    - "termux"
+
+# ==============================================================================
+# End of Configuration
+# ==============================================================================
