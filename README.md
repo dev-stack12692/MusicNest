@@ -8,7 +8,7 @@ MusicNest is an open-source, community-driven audio streaming and music discover
 
 | Home / Discover | Now Playing | Playlists & Library |
 | :---: | :---: | :---: |
-| ![Home Screen](screenshots/home.png) | ![Player Interface](screenshots/player.png) | ![Library Screen](screenshots/library.png) |
+| ![Home Screen](screenshots/home.jpg) | ![Player Interface](screenshots/player.jpg) | ![Library Screen](screenshots/library.jpg) |
 
 ---
 
