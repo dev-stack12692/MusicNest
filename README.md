@@ -1,92 +1,104 @@
-<div align="center">
+# MusicNest 🎵
 
-# 🎵 MusicNest
-### Clean, Native, High-Performance Audio Streaming & Lyrics Client
-
-A modern, distraction-free third-party streaming client featuring syllable-synced live lyrics, intelligent discovery, and first-class tablet/landscape optimization.
+MusicNest is an open-source, community-driven audio streaming and music discovery platform designed to offer a modern, clean, and ad-free listening experience. Built with simplicity, cross-platform adaptability, and performance in mind, MusicNest gives listeners complete control over their music without intrusive paywalls or trackers.
 
 ---
 
-[![Latest Release](https://img.shields.io/github/v/release/dev-stack12692/MusicNest?style=for-the-badge&color=2563EB&label=Release)](https://github.com/dev-stack12692/MusicNest/releases/latest)
-[![Total Downloads](https://img.shields.io/github/downloads/dev-stack12692/MusicNest/total?style=for-the-badge&color=10B981&label=Downloads)](https://github.com/dev-stack12692/MusicNest/releases)
-[![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/dev-stack12692/MusicNest)
-[![License](https://img.shields.io/badge/License-MIT-A855F7?style=for-the-badge)](LICENSE)
+## 📸 Screenshots
 
-<br />
+| Home / Discover | Now Playing | Playlists & Library |
+| :---: | :---: | :---: |
+| ![Home Screen](screenshots/home.png) | ![Player Interface](screenshots/player.png) | ![Library Screen](screenshots/library.png) |
 
-<img width="100%" alt="MusicNest Hero Interface" src="https://github.com/user-attachments/assets/127bbab7-fc03-4818-90c6-0ea2a2fe2204" />
+---
+
+## ✨ Features
+
+* **High-Quality Streaming:** Fast, low-latency audio playback supporting smooth streaming.
+* **Modern Minimalist Interface:** Clean layout with dynamic album color accents and responsive controls for mobile and desktop screens.
+* **Custom Playlists:** Create, reorganize, and organize your favorite songs and albums locally.
+* **Synchronized Lyrics:** View real-time, scrolling track lyrics for supported songs.
+* **Offline Caching:** Store tracks locally on your device for uninterrupted playback without an active internet connection.
+* **Native Media Controls:** Integrated lock screen, notification shade controls, and keyboard media keys.
+
+---
+
+## ⚖️ Disclaimer
+
+* **Non-Commercial Project:** MusicNest is strictly an open-source, non-profit software application developed for personal utility and educational purposes.
+* **Content Ownership:** MusicNest does not host, store, index, or distribute copyrighted media files. All album artwork, song titles, artist trademarks, and audio assets are the exclusive property of their respective owners.
+* **No Warranties:** This software is provided on an "as-is" and "as-available" basis without express or implied warranties. The maintainers are not responsible for service interruptions, changes to external API terms, or network issues.
+
+---
+
+## 📜 User Agreement
+
+By downloading, installing, or interacting with MusicNest, you agree to the following terms:
+
+1. **Lawful Application:** You will strictly abide by all applicable regional and international intellectual property, copyright, and digital consumption laws.
+2. **Strictly Non-Commercial:** You may not monetize, re-sell, bundle, or distribute MusicNest or its accessed feeds for commercial gain.
+3. **API & Server Respect:** You agree not to abuse, spam, reverse-engineer, or overload the backend services or third-party endpoints used by this software.
+4. **Service Scope:** Third-party integrations and playback availability may change, be rate-limited, or cease functioning at any time without advance warning.
+
+---
+
+## 🔒 Privacy Policy
+
+MusicNest prioritizes user privacy and follows an absolute zero-tracking approach:
+
+* **Zero Tracking & Analytics:** We do not track, collect, sell, or profile your personal information, search queries, or listening habits.
+* **Local Storage First:** All playback history, favorite lists, settings, and cached data remain stored locally on your device storage.
+* **Direct Network Access:** Outbound web requests are made exclusively to fetch audio metadata, media streams, and lyrics directly from designated external sources.
+* **Third-Party Policies:** Any network communications made to third-party APIs are governed solely by those respective service providers' terms and privacy policies.
+
+---
+
+## 🔌 Use of Third-Party APIs
+
+MusicNest relies on public and free-tier third-party endpoints to provide metadata and audio features:
+
+* **Metadata & Cover Art:** Connects to open music directories to fetch artist information, album tags, and cover graphics.
+* **Lyrics Synchronization:** Connects to community lyrics databases to fetch line-by-line synced lyrics.
+* **Audio Streams:** Interacts with public endpoints to retrieve open audio streams.
+* **Rate Limits:** The client is built to respect standard API rate limits. Users accessing heavy volumes may be prompted to supply individual developer API keys within their client settings.
+
+---
+
+## 🤝 Contributing & Community
+
+MusicNest is **100% free and open-source software**, built purely out of enthusiasm for music and software development.
+
+> **Important Notice Regarding Compensation:**  
+> Because MusicNest is a non-profit, free community project, **there is zero financial profit and no monetary compensation for contributors.** All contributions—whether writing code, creating UI/UX designs, fixing bugs, or writing documentation—are entirely voluntary.
+
+If you are interested in contributing, collaborating, or suggesting improvements:
+
+* **Reach Out Directly:** Contact the project maintainer via GitHub or developer profiles.
+* **Open an Issue:** Submit bug reports, track edge cases, or request features in the repository's Issues tab.
+* **Submit a Pull Request:** Fork the repository, create a branch for your feature or fix, and submit a PR for review.
+
+---
+
+## ☕ Support the Project
+
+MusicNest is free and will always remain completely free for everyone. If you enjoy the app and would like to support maintenance or buy a cup of coffee for the creator, contributions via **PhonePe / UPI** are welcome!
+
+<div align="center">
+
+  <a href="upi://pay?pa=7318708749@ibl&pn=Swapnendu%20Mal&cu=INR">
+    <img src="https://img.shields.io/badge/PhonePe-Pay%20via%20UPI-5f259f?style=for-the-badge&logo=phonepe&logoColor=white" alt="Pay with PhonePe" />
+  </a>
+
+  <br/><br/>
+
+  <p><b>📱 On Mobile:</b> Tap the badge above to open PhonePe or your default UPI app directly to the payment screen.</p>
+  <p><b>💻 On Desktop / Manual:</b> Pay directly to UPI ID: <code>7318708749@ibl</code></p>
+  <p><b>Payee Name:</b> <code>Swapnendu Mal</code></p>
 
 </div>
 
 ---
 
-## 📱 User Interface
+## 📄 License
 
-<table>
-  <tr>
-    <td width="33.33%" align="center"><b>Discovery & Curated Shelves</b></td>
-    <td width="33.33%" align="center"><b>Adaptive Landscape Player</b></td>
-    <td width="33.33%" align="center"><b>Syllable-Synced Live Lyrics</b></td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <img src="https://github.com/user-attachments/assets/0493e949-6898-4e2c-b439-81a2a6713e9a" alt="Curated Music Exploration" width="100%" />
-      <p align="left"><sub>Dynamic genre filters, personalized Speed Dial, and dedicated artist tags.</sub></p>
-    </td>
-    <td valign="top">
-      <img src="https://github.com/user-attachments/assets/e93af09c-4574-435e-9725-6141204864cc" alt="Now Playing Controls" width="100%" />
-      <p align="left"><sub>Dual-pane layout tailored for tablets, foldables, and landscape usage.</sub></p>
-    </td>
-    <td valign="top">
-      <img src="https://github.com/user-attachments/assets/4ac4429a-6611-4d6b-9c15-1e620c3e47c3" alt="Synchronized Lyrics" width="100%" />
-      <p align="left"><sub>Real-time, syllable-by-syllable autoscroll animations with glow highlights.</sub></p>
-    </td>
-  </tr>
-</table>
-
----
-
-## ⚡ Key Capabilities
-
-* **Curated Content Discovery:** One-tap contextual mood indexing (*Relax*, *Energize*, *Workout*, *Romance*, *Sad*) paired with personalized listening recommendations.
-* **Karaoke-Style Live Lyrics:** Syllable- and line-synchronized scrolling backed by public lyric engines. Toggle between cover artwork and animated lyrics with zero audio interruption.
-* **Responsive Architecture:** Fully optimized for compact mobile viewports, large-screen tablets, and foldable displays with adaptive split-pane layouts.
-* **Queue & Playback Control:** Background audio persistence, seamless loop modes, integrated sleep timer, and rapid queue reordering.
-* **Local Privacy First:** No mandatory sign-in or remote telemetry. Playlists, history, and configuration remain safely on your device.
-
----
-
-## 📥 Getting Started
-
-### Installation
-1. Download the latest release package:  
-   👉 **[Download MusicNest APK (v1.1.0)](https://github.com/dev-stack12692/MusicNest/releases/latest)**
-2. Locate the `.apk` file inside your device's **Downloads** folder.
-3. Tap the file to install. When prompted by Android, choose **"Allow from this source"**.
-4. Open **MusicNest** and begin listening.
-
----
-
-## 🏛️ System Architecture
-
-MusicNest operates strictly as an **on-device client aggregator**. No central stream proxies, remote databases, or intermediate caching servers are maintained.
-
-```text
-┌─────────────────────────┐
-│     MusicNest Client    │
-│  (Android / Local Host) │
-└────────────┬────────────┘
-             │
-             ├──► 1. Handshake & Stream Request ──────┐
-             │                                        ▼
-             │                             ┌────────────────────────┐
-             │                             │  Third-Party Endpoints │
-             │                             │  (YouTube / YT Music)  │
-             │◄─── 2. Direct Audio Stream ─┴────────────────────────┘
-             │
-             └──► 3. Real-Time Timestamp Queries ─────┐
-                                                      ▼
-                                           ┌────────────────────────┐
-                                           │ Public Lyrics Engines  │
-                                           │ (LRCLIB / Public APIs) │
-                                           └────────────────────────┘
+This project is licensed under the [MIT License](LICENSE) — completely open and free for personal use and modification.
