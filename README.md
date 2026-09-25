@@ -115,6 +115,9 @@ MusicNest is free and will always remain completely free for everyone. If you en
   <p><b>📱 On Mobile:</b> Tap the badge above to open PhonePe or your default UPI app directly to the payment screen.</p>
   <p><b>💻 On Desktop / Manual:</b> Pay directly to UPI ID: <code>7318708749@ibl</code></p>
   <p><b>Payee Name:</b> <code>Swapnendu Mal</code></p>
+  <img width="550" height="470" alt="14248" src="https://github.com/user-attachments/assets/bab2893e-8350-4ff3-8d09-0074b1c61511" />
+
+
 
 </div>
 
