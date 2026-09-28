@@ -17,7 +17,7 @@ A lightweight, modern, ad-free music streaming and offline playback client built
 ## 📥 Installation
 
 1. Head over to the [Releases](../../releases) tab.
-2. Download the latest `MusicNest-v1.1.0.apk`.
+2. Download the latest `MusicNest version`.
 3. Open the APK on your Android device and confirm installation (allow installation from unknown sources if prompted).
 
 ---
