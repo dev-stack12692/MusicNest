@@ -32,3 +32,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Basic queue management.
 - Simple line-by-line synced lyric parsing.
 - Material 3 dark/light interface.
+
+### Latest Version
+**Go to https://github.com/dev-stack12692/MusicNest/releases/tag/latest for More information**
