@@ -21,6 +21,7 @@ Download the official standalone builds directly from the GitHub releases page:
 | :--- | :--- | :--- | :---: |
 | **Android** | Android 8.0+ (ARM64 / v7a / x86_64) | Standalone APK (`.apk`) | [Download Latest APK](https://github.com/dev-stack12692/MusicNest/releases/latest) |
 
+**Download From Our Official Website: https://musicnest.me**
 > **Android Installation Note:** If you are sideloading the APK for the first time, make sure to permit installations from unknown sources in your browser or file manager (`Settings > Apps > Special app access > Install unknown apps`).
 
 ---
