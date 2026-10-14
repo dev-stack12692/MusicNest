@@ -2,7 +2,7 @@
 
 **Last Updated:** September 7, 2026
 
-MusicNest is an independent, open-source music player and client developed solely for educational, research, and personal media management purposes.
+MusicNest is an independent, free music player and client developed solely for educational, research, and personal media management purposes.
 
 ---
 
