@@ -6,10 +6,11 @@ By downloading, compiling, installing, or using **MusicNest** (the "Software"), 
 
 ---
 
-## 1. Open Source License & Permitted Use
+## 1. License & Permitted Use
 
-- The Software is distributed under the terms of the project's open-source license (MIT License).
-- You are granted the right to inspect, compile, modify, and run the Software for personal, educational, and non-commercial purposes, subject to the license conditions.
+- MusicNest is free to use. The source code is not published. All rights reserved.
+- You may not redistribute, modify, or reverse-engineer the Software.
+- You are granted the right to install and run the Software for personal, non-commercial purposes.
 
 ---
 
