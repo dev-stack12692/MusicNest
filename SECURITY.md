@@ -1,6 +1,6 @@
 # 🔒 Security Policy
 
-We take the security of MusicNest and its users seriously. As an open-source project handling media streaming and network calls, maintaining secure dependencies and safe code execution is a top priority.
+We take the security of MusicNest and its users seriously. As an app handling media streaming and network calls, maintaining secure dependencies and safe code execution is a top priority.
 
 ---
 
