@@ -28,9 +28,16 @@ Download the official standalone builds directly from the GitHub releases page:
 
 ## 📸 Screenshots
 
-| Home / Discover | Now Playing | Playlists & Library |
-| :---: | :---: | :---: |
-| ![Home Screen](screenshots/home.jpg) | ![Player Interface](screenshots/player.jpg) | ![Library Screen](screenshots/library.jpg) |
+<p align="center">
+  <img src="screenshots/home.jpg" width="280" alt="Home" />
+  <img src="screenshots/search.jpg" width="280" alt="Search" />
+  <img src="screenshots/podcasts.jpg" width="280" alt="Podcasts" />
+  <img src="screenshots/library.jpg" width="280" alt="Your Library" />
+</p>
+<p align="center">
+  <img src="screenshots/player.jpg" width="185" alt="Now Playing" />
+  <img src="screenshots/lyrics.jpg" width="580" alt="Synced Lyrics" />
+</p>
 
 ---
 
