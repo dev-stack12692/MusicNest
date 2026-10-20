@@ -1,6 +1,6 @@
 # Privacy Policy for MusicNest
 
-**Effective Date:** October 18, 2026
+**Effective Date:** October 20, 2026
 
 MusicNest is free to use. This page says plainly what the app collects. Playing music, your local files and your playlists stay on your device. A few features use online services, listed below.
 
@@ -11,6 +11,8 @@ MusicNest is free to use. This page says plainly what the app collects. Playing 
 - **Account (optional):** if you sign in with Google or email and password (Firebase Authentication), we get your email, display name and profile picture. You can use the player without signing in.
 - **Cloud Sync (when signed in):** your account ID, email, name, a MusicNest ID, a short taste summary (play count based) and the last sync time are stored in Firebase Firestore. Sync frequency can be changed or set to Manual in Settings.
 - **Usage analytics:** the app uses Firebase Analytics. It records app opens, screens viewed, search terms (first 80 characters), songs you select or play (song ID, title, artist, album), playlist names you create, download events, sign-in events and playback errors. Firebase also adds standard device and app data such as model, OS version and an app instance ID.
+
+  You can turn analytics off at any time in Settings > Account > Usage Analytics. When it is off, no analytics events are collected or sent.
 - **Crash reports:** Firebase Crashlytics receives error reports so we can fix crashes.
 
 We do not sell your data and we show no ads in the app.
@@ -51,7 +53,7 @@ Those services have their own privacy policies and see your IP address.
 
 ## 5. Your choices
 
-You can use the app without an account. Sign out in Settings, or clear app data in Android settings to remove local data. To ask for your account data to be deleted, email support@musicnest.me.
+You can use the app without an account. You can turn usage analytics off in Settings > Account. To delete your account and cloud-synced data, use Settings > Account > Delete My Data in the app, or email support@musicnest.me from your account email. Sign out in Settings, or clear app data in Android settings to remove local data.
 
 ---
 
