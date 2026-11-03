@@ -147,11 +147,11 @@ MusicNest stays free. If you like it and want to buy me a chai, you can pay by U
 
 <div align="center">
 
-<a href="upi://pay?pa=7318708749@ibl&pn=Swapnendu%20Mal&cu=INR">
+<a href="upi://pay?pa=Swapnendu26@ybl&pn=Swapnendu%20Mal&cu=INR">
   <img src="https://img.shields.io/badge/PhonePe-Pay%20via%20UPI-5f259f?style=for-the-badge&logo=phonepe&logoColor=white" alt="Pay via UPI" />
 </a>
 
-On mobile, tap the badge. Otherwise pay to UPI ID `7318708749@ibl` (Swapnendu Mal).
+On mobile, tap the badge. Otherwise pay to UPI ID `Swapnendu26@ybl` (Swapnendu Mal).
 
 </div>
 
